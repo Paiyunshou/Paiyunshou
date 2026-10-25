@@ -15,6 +15,8 @@ Three linked tables — non-resident supplier registry, contract filing, and wit
 
 📑 [**slides**](https://github.com/Paiyunshou/slides) — the three-slide deck lives in this archive.
 
+Next: carry the same tax-base logic to other tax types, and wire the SiYuan knowledge bases into the same workflow.
+
 ---
 
 ## ⭐ Featured projects
@@ -36,14 +38,6 @@ Three linked tables — non-resident supplier registry, contract filing, and wit
 🖌️ [**siyuan-plugins-foresthomepage**](https://github.com/Paiyunshou/siyuan-plugins-foresthomepage) — A card-style home page plugin for SiYuan that quietly showcases your knowledge base
 
 🌗 [**hexo-theme-stellar**](https://github.com/Paiyunshou/hexo-theme-stellar) — Blog theme: blog, knowledge base, and columns in one
-
----
-
-## 📚 What I'm working on
-
-- Mapping and automating export rebates, property tax, invoice limit increases, and tax calculation
-- Growing tax knowledge bases in SiYuan (Tax / Finance / Topics)
-- Assembling multidimensional tables, AI data collection, and presentation decks into one workflow that ships
 
 ---
 

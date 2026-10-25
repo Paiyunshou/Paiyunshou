@@ -15,6 +15,8 @@
 
 📑 [**slides**](https://github.com/Paiyunshou/slides)：三页演示 deck 收在这个合集里，一屏归档、逐页翻页。
 
+接下来：把这套口径推到其他税种，并把思源笔记里的财税知识库接成同一条工作流。
+
 ---
 
 ## ⭐ 精选项目
@@ -38,15 +40,6 @@
 🖌️ [**siyuan-plugins-foresthomepage**](https://github.com/Paiyunshou/siyuan-plugins-foresthomepage)：思源笔记的卡片式主页，安静地展示你的知识库
 
 🌗 [**hexo-theme-stellar**](https://github.com/Paiyunshou/hexo-theme-stellar)：博客主题，博客 + 知识库 + 专栏一套打通
-
----
-
-## 📚 正在做的事
-
-- 出口退税、房产税、发票提额、税金计算的流程梳理与自动化
-- 用思源笔记沉淀财税知识库（Tax 知识库 / Finance 知识库 / 主题库）
-- 把多维表、AI 数据采集、演示 deck 拼成一套能落地的财税工作流
-- 学一点新东西：把「自学是门手艺」的笔记整理进知识库
 
 ---
 
