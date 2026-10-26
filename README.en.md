@@ -21,6 +21,8 @@ Next: carry the same tax-base logic to other tax types, and wire the SiYuan know
 
 ## ⭐ Featured projects
 
+📡 [**tax-watch**](https://github.com/Paiyunshou/tax-watch) — A tax-policy watchdog: pulls STA / MOF / SAFE announcements twice a day, extracts document numbers, effective dates and business impact with an LLM, and sends a Feishu digest every morning
+
 📊 [**budget-sandbox-skill**](https://github.com/Paiyunshou/budget-sandbox-skill) — Turn a budget Excel into a draggable, interactive, numerically exact "budget sandbox" web page
 
 📑 [**slides**](https://github.com/Paiyunshou/slides) — HTML deck archive for my tax projects, sorted into Work and Toolkit
