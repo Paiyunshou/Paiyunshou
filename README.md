@@ -21,6 +21,8 @@
 
 ## ⭐ 精选项目
 
+📡 [**tax-watch**](https://github.com/Paiyunshou/tax-watch)：财税政策监管机器人——每 12 小时抓取税务总局 / 财政部 / 外汇局公告，自动提炼文号、生效日期和业务影响，每天早上推一份飞书日报
+
 📊 [**budget-sandbox-skill**](https://github.com/Paiyunshou/budget-sandbox-skill)：把预算 Excel 变成可拖拽、可交互、数字精确的「预算沙盘」网页
 
 📑 [**slides**](https://github.com/Paiyunshou/slides)：财税项目的 HTML 幻灯片合集，按「工作 / 工具技能」两类归档
